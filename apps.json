@@ -142,29 +142,11 @@
         "reward": null
       },
       {
-        "id": "game-planaria",
-        "name": "プラナリア",
-        "icon": "🪱",
-        "description": "",
-        "url": "https://ikymbiz.github.io/game-planaria/",
-        "level": "おすすめ",
-        "reward": null
-      },
-      {
-        "id": "quiz-mofmof",
-        "name": "もふもふクイズ",
-        "icon": "🐕️",
-        "description": "",
-        "url": "https://ikymbiz.github.io/quiz-mofmof/",
-        "level": "おすすめ",
-        "reward": null
-      },
-      {
-        "id": "darth-invader",
-        "name": "ダースインベーダー",
-        "icon": "🚀",
-        "description": "",
-        "url": "https://ikymbiz.github.io/darth-invader/",
+        "id": "app-10tsunagi",
+        "name": "10つなぎ",
+        "icon": "🔢",
+        "description": "ブロックをつなげて10にしよう",
+        "url": "https://ikymbiz.github.io/app-10tsunagi/",
         "level": "おすすめ",
         "reward": null
       },
@@ -183,6 +165,24 @@
         "icon": "🔢",
         "description": "",
         "url": "https://ikymbiz.github.io/sudoku/",
+        "level": "おすすめ",
+        "reward": null
+      },
+      {
+        "id": "game-planaria",
+        "name": "プラナリア",
+        "icon": "🪱",
+        "description": "",
+        "url": "https://ikymbiz.github.io/game-planaria/",
+        "level": "おすすめ",
+        "reward": null
+      },
+      {
+        "id": "darth-invader",
+        "name": "ダースインベーダー",
+        "icon": "🚀",
+        "description": "",
+        "url": "https://ikymbiz.github.io/darth-invader/",
         "level": "おすすめ",
         "reward": null
       }

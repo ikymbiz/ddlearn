@@ -32,6 +32,15 @@
         "url": "https://ap9en2.ddashpot.com/quiz-tani-kansan/",
         "level": "おすすめ",
         "reward": "20"
+      },
+      {
+        "id": "app-kuku",
+        "name": "九九マスター",
+        "icon": "📄",
+        "description": "九九をおぼえよう",
+        "url": "https://ikymbiz.github.io/app-kuku/",
+        "level": "おすすめ",
+        "reward": "20"
       }
     ]
   },

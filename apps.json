@@ -194,6 +194,15 @@
         "url": "https://ikymbiz.github.io/darth-invader/",
         "level": "おすすめ",
         "reward": null
+      },
+      {
+        "id": "app-puyopuyo",
+        "name": "ぷにょぷにょ",
+        "icon": "🫪",
+        "description": "おなじいろを4つつなげろ",
+        "url": "https://ikymbiz.github.io/app-puyopuyo",
+        "level": "おすすめ",
+        "reward": null
       }
     ]
   }

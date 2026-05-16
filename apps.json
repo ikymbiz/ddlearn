@@ -86,6 +86,15 @@
         "url": "https://example.com/science-lab",
         "level": "人気",
         "reward": "🧪 12"
+      },
+      {
+        "id": "app-summer-project",
+        "name": "自由研究(じゆうけんきゅう)ツール",
+        "icon": "📄",
+        "description": "毎日の記録をつくるツールです",
+        "url": "https://ikymbiz.github.io/app-summer-project/",
+        "level": "おすすめ",
+        "reward": null
       }
     ]
   },

@@ -205,5 +205,23 @@
         "reward": null
       }
     ]
+  },
+  {
+    "id": "programming",
+    "type": "subject",
+    "name": "プログラミング",
+    "icon": "👨‍💻",
+    "color": "#38bdf8",
+    "apps": [
+      {
+        "id": "app−typing",
+        "name": "かなうち電鉄(でんてつ)",
+        "icon": "🚋",
+        "description": "タイピングででんしゃをうごかせ！",
+        "url": "https://ikymbiz.github.io/app-typing/",
+        "level": "おすすめ",
+        "reward": null
+      }
+    ]
   }
 ]

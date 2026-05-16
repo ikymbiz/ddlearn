@@ -79,15 +79,6 @@
     "color": "#4ade80",
     "apps": [
       {
-        "id": "science-lab",
-        "name": "りか実験ラボ",
-        "icon": "⚗️",
-        "description": "ふしぎな実験のひみつを発見！",
-        "url": "https://example.com/science-lab",
-        "level": "人気",
-        "reward": "🧪 12"
-      },
-      {
         "id": "app-summer-project",
         "name": "自由研究(じゆうけんきゅう)ツール",
         "icon": "📄",
